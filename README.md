@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kahnphuzed
 - 👀 I’m interested in Cybersecurity, automation and emergency management
-- 🌱 I’m currently learning C# automation, Infosec
+- 🌱 I’m currently learning Python, CyberSec
 - 💞️ I’m looking to collaborate on anythang
 - 📫 How to reach me carrier pigeon
 
